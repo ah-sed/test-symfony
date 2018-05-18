@@ -1,0 +1,27 @@
+{% extends ':default:index.html.twig' %}
+
+{% block title %}
+    Patients
+{% endblock title %}
+
+{% block content %}
+    <table id="datatable" class="table table-striped table-bordered">
+        <thead>
+            <tr>
+                <th>RPPS</th>
+                <th>Nom</th>
+                <th>Prenom</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            {% for medecin in medecins %}
+                <tr>
+                    <td>{{ medecin.rpps }}</td>
+                    <td>{{ medecin.nom }}</td>
+                    <td>{{ medecin.prenom }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+{% endblock content %}
