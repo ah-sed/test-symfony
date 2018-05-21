@@ -12,15 +12,15 @@ fonctions php (susbstr, explode).
 *Voici quelques captures d'écran*
 - Vue avant tratiement
 
-![alt text](https://github.com/ah-sed/test-symfony/blob/master/web/capture/capture1.PNG)
+![alt text](https://github.com/ah-sed/test-symfony/blob/master/web/captures/capture1.PNG)
 
 - Vue aprés traitement
 
-![alt text](https://github.com/ah-sed/test-symfony/blob/master/web/capture/capture2.PNG)
+![alt text](https://github.com/ah-sed/test-symfony/blob/master/web/captures/capture2.PNG)
 
 - Vue liste patients
 
-![alt text](https://github.com/ah-sed/test-symfony/blob/master/web/capture/capture3.PNG)
+![alt text](https://github.com/ah-sed/test-symfony/blob/master/web/captures/capture3.PNG)
 
 - Vue liste médecins
 
