@@ -24,4 +24,4 @@ fonctions php (susbstr, explode).
 
 - Vue liste médecins
 
-![alt text](https://github.com/ah-sed/test-symfony/blob/master/web/capture/Capture4.PNG)
+![alt text](https://github.com/ah-sed/test-symfony/blob/master/web/captures/Capture4.PNG)
