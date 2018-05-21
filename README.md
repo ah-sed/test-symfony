@@ -10,7 +10,7 @@ Etant donnée qu'on sait ce qu'on veut récupérer et que les fichiers sont corr
 fonctions php (susbstr, explode).
 
 *Voici quelques captures d'écran*
-- Vue avant tratiement
+- Vue avant traitement
 
 ![alt text](https://github.com/ah-sed/test-symfony/blob/master/web/captures/capture1.PNG)
 
